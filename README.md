@@ -7,4 +7,4 @@ I am SyRobin and:
 - 📫 Ping me: [Blog](https://everettsy.github.io/Spring-Cloud/#/)
 - ⚡ Fun fact: I like history, finance, natural landscapes.
 
-<div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=EverettSy&show_icons=true&&theme=default&locale=cn"></div>
+<a href="https://github.com/EverettSy"><div style="text-align:center"><img src="https://github-readme-stats.vercel.app/api?username=EverettSy&show_icons=true&&theme=default&locale=cn"></div></a>
