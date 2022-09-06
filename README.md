@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/ferminrp/ferminrp/main/images/gradient.png)
 <h1 align="center">Welcome!</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EverettSy&no-frame=true&no-bg=true" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EverettSy&no-frame=true&no-bg=true&column=-1" /></a> </p>
 
 I am SyRobin and:
 
