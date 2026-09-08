@@ -24,13 +24,3 @@
 | <a href="https://github.com/EverettSy/Spring-Cloud"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=EverettSy&amp;repo=Spring-Cloud&amp;theme=buefy&amp;hide_border=true" alt="Spring-Cloud" /></a> | <a href="https://github.com/EverettSy/spring-cloud-syrobin"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=EverettSy&amp;repo=spring-cloud-syrobin&amp;theme=buefy&amp;hide_border=true" alt="spring-cloud-syrobin" /></a> |
 | ------------- | ------------- |
 | <a href="https://github.com/EverettSy/mall"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=EverettSy&amp;repo=mall&amp;theme=buefy&amp;hide_border=true" alt="mall" /></a> | <a href="https://github.com/EverettSy/springBootUpload"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=EverettSy&amp;repo=springBootUpload&amp;theme=buefy&amp;hide_border=true" alt="springBootUpload" /></a> |
-
-### GitHub
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=EverettSy&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=cn" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=EverettSy&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;locale=cn" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=EverettSy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
