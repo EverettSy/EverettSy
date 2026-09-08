@@ -1,22 +1,43 @@
-![](https://raw.githubusercontent.com/ferminrp/ferminrp/main/images/gradient.png)
-<h1 align="center">Welcome!</h1>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EverettSy&no-frame=true&no-bg=true&column=-1" /></a> </p>
+# SyRobin
 
-I am SyRobin and:
+**杭州 · 互联网直播后端leader**
 
-- 🔭 I’m currently working in Internet Insurance Department
-- 💬 Ask me about: Micro Service, Distributed,High Concurrency, Java.
-- 📫 Ping me: [Blog](https://everettsy.github.io/Spring-Cloud/#/)
-- ⚡ Fun fact: I like history, finance, natural landscapes.
+做微服务、分布式和高并发，写 Java，也写一点笔记。
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></p>
+[Spring Cloud 笔记](https://everettsy.github.io/Spring-Cloud/#/) · [个人文档](http://doc.syrobin.me) · [GitHub](https://github.com/EverettSy)
 
-<p><a href="https://github.com/EverettSy"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EverettSy&show_icons=true&locale=en&layout=compact" alt="EverettSy" /></a></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EverettSy&show_icons=true&locale=cn&theme=cobalt" alt="EverettSy" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EverettSy&" alt="EverettSy" /></p>
+### 现在在做什么
 
-![](https://raw.githubusercontent.com/ferminrp/ferminrp/main/images/gradient.png)
+- 🔭 在互联网直播做后端leader，日常和直播、交易、资金、风控这类链路打交道
+- 💬 可以聊：微服务拆分、分布式一致性、高并发、Java / Spring Cloud
+- 📫 笔记： [Spring Cloud](https://github.com/EverettSy/Spring-Cloud) · [spring-cloud-syrobin](https://github.com/EverettSy/spring-cloud-syrobin)
+- ⚡ 业余看历史、金融和山水
+
+### 技术栈
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,redis,rabbitmq,docker,linux,git" alt="tech stack" />
+</p>
+
+### GitHub
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=EverettSy&show_icons=true&theme=tokyonight&hide_border=true&locale=cn" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EverettSy&layout=compact&theme=tokyonight&hide_border=true&locale=cn" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=EverettSy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
