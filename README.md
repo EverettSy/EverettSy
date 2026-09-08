@@ -10,7 +10,7 @@
 | <img align="center" src="https://github-stats-extended.vercel.app/api?username=EverettSy&amp;show_icons=true&amp;theme=buefy&amp;hide_border=true" alt="GitHub stats" /> | <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=EverettSy&amp;layout=compact&amp;theme=buefy&amp;hide_border=true&amp;hide=html,css" alt="Top languages" /> |
 | ------------- | ------------- |
 
-#### 我使用的语言（按喜爱程度排序）
+#### 我使用的技术栈（按喜爱程度排序）
 <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=Java&logoColor=white"></a>
 <a href="https://vuejs.org/" target="_blank"><img alt="Vue" src="https://img.shields.io/badge/Vue-000000?style=flat-square&logo=vuedotjs&logoColor=white"></a>
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white"></a>
