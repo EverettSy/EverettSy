@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 **关于我：**
-* 笔记：[Spring Cloud](https://everettsy.github.io/Spring-Cloud/#/) · [文档](http://doc.syrobin.me)
+* 笔记：[Spring Cloud](https://everettsy.github.io/Spring-Cloud/#/) · [文档](https://syrobin.zle.ee)
 * GitHub：[EverettSy](https://github.com/EverettSy)
 * 杭州，互联网直播后端，做微服务、分布式和高并发。
 * 日常在直播、交易、资金、风控链路；可以聊拆分、一致性、Java / Spring Cloud。
